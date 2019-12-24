@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="insert" type="id" />
+    <item name="search" type="id" />
+    <item name="nametxt" type="id" />
+    <item name="phonetxt" type="id" />
+    <item name="listView" type="id" />
+</resources>
